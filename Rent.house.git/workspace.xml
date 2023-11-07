@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69e071b7-5923-42da-950c-8870bd7f2ac7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/rental/static/img/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/rental/static/img/about_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/rental/static/img/city-night.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/rental/static/img/ddr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/rental/static/img/home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/rental/static/img/home_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/rental/static/img/reg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/rental/static/img/services.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/static/img/h1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/static/img/h2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/static/img/home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/static/img/reg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/static/img/services.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/static/img/services_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/venv/Scripts/Activate.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/venv/Scripts/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/venv/Scripts/activate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/venv/Scripts/deactivate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/venv/Scripts/django-admin.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/venv/Scripts/django-admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/venv/Scripts/isort.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/venv/Scripts/pip.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/venv/Scripts/pip3.11.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/venv/Scripts/pip3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/venv/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/venv/Scripts/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/venv/Scripts/sqlformat.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rent-Houses/venv/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/.idea/property-rental.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/Pipfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/accounts/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/accounts/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/accounts/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/accounts/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/accounts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/accounts/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/accounts/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/accounts/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/accounts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/accounts/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/accounts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/accounts/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/btre/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/rental/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/btre/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/rental/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/btre/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/rental/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/btre/static/css/admin.css" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/rental/static/css/admin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/btre/static/css/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/rental/static/css/all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/btre/static/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/rental/static/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/btre/static/css/lightbox.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/rental/static/css/lightbox.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/btre/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/rental/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/btre/static/img/about.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/btre/static/img/building.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/rental/static/img/building.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/btre/static/img/lightbox/close.png" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/rental/static/img/lightbox/close.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/btre/static/img/lightbox/loading.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/rental/static/img/lightbox/loading.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/btre/static/img/lightbox/next.png" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/rental/static/img/lightbox/next.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/btre/static/img/lightbox/prev.png" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/rental/static/img/lightbox/prev.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/btre/static/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/rental/static/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/btre/static/img/showcase.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/rental/static/img/showcase.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/btre/static/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/rental/static/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/btre/static/js/jquery-3.3.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/rental/static/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/btre/static/js/lightbox.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/rental/static/js/lightbox.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/btre/static/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/rental/static/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/btre/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/rental/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/btre/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/rental/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/contacts/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/contacts/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/contacts/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/contacts/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/contacts/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/contacts/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/contacts/migrations/0002_contact_realtor_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/contacts/migrations/0002_contact_realtor_email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/contacts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/contacts/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/contacts/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/contacts/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/contacts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/contacts/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/contacts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/contacts/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/listings/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/listings/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/listings/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/listings/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/listings/choices.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/listings/choices.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/listings/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/listings/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/listings/migrations/0002_auto_20191214_1853.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/listings/migrations/0002_auto_20191214_1853.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/listings/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/listings/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/listings/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/listings/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/listings/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/listings/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/listings/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/listings/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/pages/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/pages/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/pages/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/pages/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/pages/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/pages/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/pages/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/pages/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/pages/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/pages/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/pages/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/pages/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/realtors/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/realtors/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/realtors/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/realtors/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/realtors/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/realtors/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/realtors/migrations/0002_auto_20191214_1853.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/realtors/migrations/0002_auto_20191214_1853.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/realtors/migrations/0003_realtor_last_updated.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/realtors/migrations/0003_realtor_last_updated.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/realtors/migrations/0004_auto_20191216_0248.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/realtors/migrations/0004_auto_20191216_0248.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/realtors/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/realtors/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/realtors/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/realtors/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/realtors/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/realtors/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/css/autocomplete.css" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/css/autocomplete.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/css/changelists.css" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/css/changelists.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/css/dashboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/css/dashboard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/css/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/css/fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/css/forms.css" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/css/forms.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/css/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/css/responsive_rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/css/responsive_rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/css/rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/css/rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/css/vendor/select2/LICENSE-SELECT2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/css/vendor/select2/LICENSE-SELECT2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/css/vendor/select2/select2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/css/vendor/select2/select2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/css/vendor/select2/select2.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/css/vendor/select2/select2.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/css/widgets.css" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/css/widgets.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/fonts/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/fonts/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/img/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/img/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/img/calendar-icons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/img/calendar-icons.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/img/icon-addlink.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/img/icon-addlink.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/img/icon-alert.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/img/icon-alert.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/img/icon-calendar.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/img/icon-calendar.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/img/icon-changelink.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/img/icon-changelink.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/img/icon-clock.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/img/icon-clock.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/img/icon-deletelink.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/img/icon-deletelink.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/img/icon-no.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/img/icon-no.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/img/icon-unknown-alt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/img/icon-unknown-alt.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/img/icon-unknown.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/img/icon-unknown.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/img/icon-viewlink.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/img/icon-viewlink.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/img/icon-yes.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/img/icon-yes.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/img/inline-delete.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/img/inline-delete.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/img/search.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/img/search.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/img/selector-icons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/img/selector-icons.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/img/sorting-icons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/img/sorting-icons.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/img/tooltag-add.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/img/tooltag-add.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/img/tooltag-arrowright.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/img/tooltag-arrowright.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/SelectBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/SelectBox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/SelectFilter2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/SelectFilter2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/actions.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/actions.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/admin/DateTimeShortcuts.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/admin/DateTimeShortcuts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/admin/RelatedObjectLookups.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/admin/RelatedObjectLookups.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/autocomplete.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/autocomplete.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/calendar.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/calendar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/cancel.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/cancel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/change_form.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/change_form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/collapse.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/collapse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/collapse.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/collapse.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/core.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/inlines.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/inlines.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/inlines.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/inlines.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/jquery.init.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/jquery.init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/popup_response.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/popup_response.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/prepopulate.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/prepopulate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/prepopulate.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/prepopulate.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/prepopulate_init.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/prepopulate_init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/urlify.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/urlify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/jquery/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/jquery/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/jquery/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/af.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/af.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/ar.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/ar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/az.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/az.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/bg.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/bg.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/bn.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/bn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/bs.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/bs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/ca.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/ca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/cs.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/cs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/da.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/da.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/de.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/de.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/dsb.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/dsb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/el.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/el.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/en.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/es.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/es.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/et.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/et.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/eu.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/eu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/fa.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/fa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/fi.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/fi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/fr.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/fr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/gl.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/gl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/he.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/he.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/hi.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/hi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/hr.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/hr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/hsb.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/hsb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/hu.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/hu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/hy.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/hy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/id.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/id.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/is.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/is.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/it.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/it.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/ja.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/ja.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/ka.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/ka.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/km.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/km.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/ko.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/ko.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/lt.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/lt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/lv.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/lv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/mk.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/mk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/ms.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/ms.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/nb.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/nb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/ne.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/ne.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/nl.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/nl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/pl.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/pl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/ps.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/ps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/pt-BR.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/pt-BR.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/pt.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/pt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/ro.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/ro.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/ru.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/ru.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/sk.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/sk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/sl.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/sl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/sq.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/sq.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/sr-Cyrl.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/sr-Cyrl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/sr.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/sr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/sv.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/sv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/th.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/th.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/tk.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/tk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/tr.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/tr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/uk.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/uk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/vi.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/vi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/zh-CN.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/zh-CN.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/zh-TW.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/i18n/zh-TW.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/select2.full.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/select2/select2.full.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/xregexp/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/xregexp/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/xregexp/xregexp.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/xregexp/xregexp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/xregexp/xregexp.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/admin/js/vendor/xregexp/xregexp.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/css/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/css/all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/img/about.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/img/about.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/js/lightbox.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/js/lightbox.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/static/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/static/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/templates/accounts/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/templates/accounts/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/templates/accounts/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/templates/accounts/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/templates/accounts/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/templates/accounts/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/templates/admin/base_site.html" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/templates/admin/base_site.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/templates/listings/listing.html" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/templates/listings/listing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/templates/listings/listings.html" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/templates/listings/listings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/templates/listings/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/templates/listings/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/templates/pages/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/templates/pages/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/templates/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/templates/pages/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/templates/partials/_alerts.html" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/templates/partials/_alerts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/templates/partials/_footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/templates/partials/_footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/templates/partials/_navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/templates/partials/_navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rent-Houses/templates/partials/_topbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/Rent-Houses/templates/partials/_topbar.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Rent-Houses" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2XjnXM0dRG7dbyX0R0uV1NmOr60" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/gaggu/Desktop/Rent-Houses&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Rent-Houses" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69e071b7-5923-42da-950c-8870bd7f2ac7" name="Changes" comment="" />
+      <created>1699151398580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699151398580</updated>
+      <workItem from="1699151399973" duration="638000" />
+      <workItem from="1699152239416" duration="299000" />
+      <workItem from="1699204371513" duration="1748000" />
+      <workItem from="1699206490419" duration="557000" />
+      <workItem from="1699207480299" duration="339000" />
+      <workItem from="1699207829335" duration="6000" />
+      <workItem from="1699207842748" duration="8000" />
+      <workItem from="1699207869040" duration="537000" />
+      <workItem from="1699310224152" duration="601000" />
+      <workItem from="1699311404759" duration="557000" />
+      <workItem from="1699312001972" duration="464000" />
+      <workItem from="1699328724863" duration="272000" />
+      <workItem from="1699329370261" duration="279000" />
+      <workItem from="1699330693375" duration="500000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
